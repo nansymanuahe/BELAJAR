@@ -10,4 +10,4 @@ kalkulator sederhana visual studio bahasa pemograman vb net
 
 multimedia
 
-blender Bahasa program
+blender Bahasa program yang sangat baik
